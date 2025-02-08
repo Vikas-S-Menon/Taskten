@@ -1,0 +1,22 @@
+
+    /* Apply styling to the whole page */
+    body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        margin-top: 50px;
+    }
+    /* Center the form and add styling */
+    form {
+        display: inline-block;
+        text-align: left;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        background-color: #f9f9f9;
+    }
+    /* Style input fields */
+    input {
+        display: block;
+        width: 100%;
+        margin-bottom: 10px;
+    }
